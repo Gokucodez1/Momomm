@@ -1,0 +1,10 @@
+{
+    "bot_token": "",
+    "category_id": "",
+    "admin_role": "",
+    "required_confirmations": 1,
+    "transaction_timeout": 3600,
+    "qr_code_url": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=litecoin:{address}?amount={amount}",
+    "sochain_api": "https://sochain.com/api/v2",
+    "fallback_exchange_rate": 86.50
+}
